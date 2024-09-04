@@ -6,7 +6,7 @@ const AboutMe = () => {
       <div className="container mx-auto flex flex-col md:flex-row items-center">
         <div className="md:w-1/3 mb-8 md:mb-0 flex justify-center">
           <img
-            src="WhatsApp Image 2024-08-17 at 14.55.27_7f9edec2.jpg"
+            src="/images/profile.png"
             alt="Profile"
             className="w-48 h-48 rounded-full object-cover shadow-lg border-4 border-white"
           />

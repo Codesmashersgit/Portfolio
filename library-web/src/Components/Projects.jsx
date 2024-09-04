@@ -5,19 +5,19 @@ const projects = [
   {
     id: 1,
     title: 'Spotify-Clone',
-    image: 'Screenshot 2024-08-17 025829.png',
+    image: '/images/spotify.png',
     description: 'This project is a Spotify clone that replicates the core features of the popular music streaming platform. Enjoy uninterrupted music playback with controls like play and pause.',
   },
   {
     id: 2,
     title: 'E-Commerce',
-    image: 'Screenshot 2024-04-09 134923.png',
+    image: '/images/music.png',
     description: 'A sound purchasing platform where users can browse and buy audio products like speakers and headphones with a price alert feature that notifies users via email or SMS when prices drop, improving customer satisfaction.',
   },
   {
     id: 3,
     title: 'Startup-Project',
-    image: 'Screenshot 2024-05-28 201505.png',
+    image: '/images/doctor.png',
     description: 'Welcome to our innovative doctor consultation platform, a startup project dedicated to revolutionizing healthcare access. Our platform connects patients with qualified doctors for seamless consultations, provides medical prescriptions in a document format, and securely saves medical records.',
   },
 ];
